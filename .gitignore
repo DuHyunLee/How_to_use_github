@@ -1,0 +1,3 @@
+*.yaml
+!lions.yaml
+!tiger.yaml

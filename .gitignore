@@ -1,1 +1,3 @@
-secret.yaml
+*.yaml
+!lions.yaml
+!tiger.yaml
